@@ -64,7 +64,7 @@ The FST maps digit strings → written-out English.
 
 🛠️ Installation
 1. Clone the Repository
-git clone https://github.com/yourusername/text-normalization-fst
+git clone https://github.com/NevilleAmwayi/text_normalization.git
 cd text-normalization-fst
 
 2. Install Requirements
